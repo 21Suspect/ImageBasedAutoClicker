@@ -42,6 +42,16 @@ Install the required Python libraries by running:
 pip install -r requirements.txt
 ```
 
+## Download Executable Version
+You can download the compiled executable version of Image-Based Auto Clicker if you prefer not to run the Python script. This version does not require Python to be installed and can be run directly on your Windows system.
+
+[Download ImageBasedAutoClicker.exe](https://github.com/21Suspect/ImageBasedAutoClicker/releases/download/v1.0/ImageBasedAutoClicker.exe)
+
+## Screenshot
+Below is a screenshot of the Image-Based Auto Clicker in action:
+
+![Screenshot of Image-Based Auto Clicker](https://github.com/21Suspect/ImageBasedAutoClicker/blob/main/ImageBasedAutoClicker.jpg)
+
 ## Usage
 
 ### Launch the Application
@@ -70,16 +80,6 @@ The application has several configurable parameters:
 ## Important Information
 - This tool is intended for automating repetitive clicking tasks that can be tedious for users.
 - Use responsibly and ensure compliance with any guidelines or terms of use for the programs you are automating.
-
-## Download Executable Version
-You can download the compiled executable version of Image-Based Auto Clicker if you prefer not to run the Python script. This version does not require Python to be installed and can be run directly on your Windows system.
-
-[Download ImageBasedAutoClicker.exe](https://github.com/21Suspect/ImageBasedAutoClicker/releases/download/v1.0/ImageBasedAutoClicker.exe)
-
-## Screenshot
-Below is a screenshot of the Image-Based Auto Clicker in action:
-
-![Screenshot of Image-Based Auto Clicker](https://github.com/21Suspect/ImageBasedAutoClicker/blob/main/ImageBasedAutoClicker.jpg)
 
 ## Contributing
 Contributions are welcome! If you encounter any bugs, have feature requests, or wish to contribute to the project, please create an issue or submit a pull request.
