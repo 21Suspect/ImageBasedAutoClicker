@@ -79,7 +79,7 @@ You can download the compiled executable version of Image-Based Auto Clicker if 
 ## Screenshot
 Below is a screenshot of the Image-Based Auto Clicker in action:
 
-![Screenshot of Image-Based Auto Clicker](https://github.com/21Suspect/ImageBasedAutoClicker/blob/main/screenshot.png)
+![Screenshot of Image-Based Auto Clicker](https://github.com/21Suspect/ImageBasedAutoClicker/blob/main/ImageBasedAutoClicker.jpg)
 
 ## Contributing
 Contributions are welcome! If you encounter any bugs, have feature requests, or wish to contribute to the project, please create an issue or submit a pull request.
