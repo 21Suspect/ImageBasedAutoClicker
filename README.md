@@ -74,7 +74,7 @@ The application has several configurable parameters:
 ## Download Executable Version
 You can download the compiled executable version of Image-Based Auto Clicker if you prefer not to run the Python script. This version does not require Python to be installed and can be run directly on your Windows system.
 
-[Download ImageBasedAutoClicker.exe]([https://github.com/21Suspect/ImageBasedAutoClicker/releases](https://github.com/21Suspect/ImageBasedAutoClicker/releases/download/v1.0/ImageBasedAutoClicker.exe))
+[Download ImageBasedAutoClicker.exe](https://github.com/21Suspect/ImageBasedAutoClicker/releases/download/v1.0/ImageBasedAutoClicker.exe)
 
 ## Screenshot
 Below is a screenshot of the Image-Based Auto Clicker in action:
